@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamksawant
 - 👀 I’m interest in learning the Cloud technology / Devops
-- 🌱 I’m currently learning AWS cloud, Linux  and learinng deployment of webapps 
+- 🌱 I’m currently learning AWS cloud, Linux  and DevOps
 - 💞️ I’m looking to collaborate on project where i can learn the devops skills  
 - 📫 How to reach me shubhamksawant3@gmail.com / https://www.linkedin.com/in/shubhamsawant
