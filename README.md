@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham K Sawant</h1>
-<h3 align="center">A passionate Cloud and DevOps Enginner from India</h3>
+<h3 align="center">Passionate Cloud & DevOps Enginner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamksawant&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamksawant" /> </p>
 
