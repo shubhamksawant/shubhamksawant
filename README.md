@@ -62,12 +62,6 @@
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2" alt="Recent Article 2"> 
 
-    
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamksawant&show_icons=true&locale=en&layout=compact" alt="shubhamksawant" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamksawant&show_icons=true&locale=en" alt="shubhamksawant" /></p>
-
    
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
