@@ -45,7 +45,7 @@
 ## My Certifications :arrow_down:
 
 - [AWS Certified Solutions Architect Associate](https://www.udemy.com/certificate/UC-09a34ca0-7855-4ada-8ba4-e5b6c6d855d6/)
-- [AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-09a34ca0-7855-4ada-8ba4-e5b6c6d855d6/)
+- [AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-8e788ae9-0840-41d6-a3f1-e5a6aa5002c3/)
 - [Terraform Associate](https://kodekloud.com/certificate-verification/838FE09489-2D0408C91699-8389ADA709/)
 - [Docker](https://kodekloud.com/certificate-verification/838FE09489-8389E9C92D-8389ADA709/)
 - [Jenkins](https://kodekloud.com/certificate-verification/838FE09489-2D0668DFDDC0-8389ADA709/) 
