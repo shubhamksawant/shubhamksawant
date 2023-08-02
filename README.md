@@ -9,7 +9,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsawant](https://www.linkedin.com/in/shubhamsawant)
 
-- 📄 Checkout My Blogs [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
+- ⚡ Fun fact I am Extrovert [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
+
+- 📝 I regularly write articles on [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
@@ -62,7 +64,8 @@
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2" alt="Recent Article 2"> 
 
-   
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamksawant&show_icons=true&locale=en&layout=compact" alt="shubhamksawant" /></p>
+
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
