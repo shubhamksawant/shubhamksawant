@@ -11,7 +11,11 @@
 
 - ⚡ Fun fact I am Extrovert [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
 
+- Stay updated with the latest trends, articles, and posts in the world of DevOps? Join our vibrant and knowledge-packed LinkedIn group, <a href="YOUR_LINKEDIN_GROUP_LINK" target="https://www.linkedin.com/groups/9501755">DevOps Knowledge Junction</a>.
+
 - 📝 I regularly write articles on [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
+
+- find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable <a href="here" target="https://github.com/shubhamksawant/DevOps-Knowledge-Junction.git">here</a> 
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
@@ -46,7 +50,7 @@
 
 ## My Certifications :arrow_down:
 
-- [AWS Certified Solutions Architect Associate](https://www.udemy.com/certificate/UC-09a34ca0-7855-4ada-8ba4-e5b6c6d855d6/)
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/5ed3ca1e-8aae-45dc-ae4a-a869bf5511c2/public_url)
 - [AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-8e788ae9-0840-41d6-a3f1-e5a6aa5002c3/)
 - [Terraform Associate](https://kodekloud.com/certificate-verification/838FE09489-2D0408C91699-8389ADA709/)
 - [Docker](https://kodekloud.com/certificate-verification/838FE09489-8389E9C92D-8389ADA709/)
