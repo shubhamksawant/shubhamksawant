@@ -11,11 +11,11 @@
 
 - ⚡ Fun fact I am Extrovert [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
 
-- Stay updated with the latest trends, articles, and posts in the world of DevOps? Join our vibrant and knowledge-packed LinkedIn group, <a href="YOUR_LINKEDIN_GROUP_LINK" target="https://www.linkedin.com/groups/9501755">DevOps Knowledge Junction</a>.
+- Stay updated with the latest trends, articles, and posts in the world of DevOps? Join our vibrant and knowledge-packed LinkedIn group, [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
 
 - 📝 I regularly write articles on [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
 
-- find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable <a href="here" target="https://github.com/shubhamksawant/DevOps-Knowledge-Junction.git">here</a> 
+- find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
