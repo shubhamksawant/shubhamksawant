@@ -9,11 +9,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsawant](https://www.linkedin.com/in/shubhamsawant)
 
+- 🌱 I’m currently learning DevSecOps & Cloud Devops
+
 - ⚡ Fun fact: I love to run 🏃 [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
 
-- Stay updated with the latest trends, articles, and posts in the world of DevOps? Join our vibrant and knowledge-packed LinkedIn group, [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
+- I Stay updated & help others by sharing articles and posts in the world of DevOps on LinkedIn group 🤝 [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
 
--  🔭 I’m currently working on a Creating Devops related tech resourses I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
+- 🔭 I’m currently working on a Creating Devops related tech resources I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
 
 - find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
 
@@ -47,8 +49,8 @@
 <a href="https://memcached.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-
-## My Certifications :arrow_down:
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+#My Certifications :arrow_down:
 
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/5ed3ca1e-8aae-45dc-ae4a-a869bf5511c2/public_url)
 - [AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-8e788ae9-0840-41d6-a3f1-e5a6aa5002c3/)
@@ -59,6 +61,8 @@
 - [Ansible](https://kodekloud.com/certificate-verification/838FE09489-8389DB6F54-8389ADA709/) 
 - [GIT](https://kodekloud.com/certificate-verification/838FE09489-8389DAADF9-8389ADA709/)
 - [Jira Fundamentals](https://university.atlassian.com/student/award/mpybNu8m1H9pVa65mMKBWP3k)
+
+
 
 ## My latest Medium Blog's
   
