@@ -13,16 +13,14 @@
 
 - ⚡ Fun fact: I love to run 🏃 [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
 
-- Chekout my Udemy course if your planning for terraform certification  [udemy-terraform-associate-practice-exams](https://www.udemy.com/course/terraform-associate-practice-exams/?referralCode=638E4FD4F87C76A4CEE8)
-
-- I Stay updated & help others by sharing articles and posts in the world of DevOps on LinkedIn group 🤝 [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
-
-- 🔭 I’m currently working on a Creating Devops related tech resources I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
-
-- find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
+- 🔭 ALong with my Job I’m currently working on  open source contribution by Creating Devops related tech resources
+ 🚩 I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
+ 🚩 I Stay updated & help others by sharing articles and posts in the world of DevOps on LinkedIn group 🤝 [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
+ 🚩 My Udemy course ( ping for coupons) [udemy-terraform-associate-practice-exams](https://www.udemy.com/course/terraform-associate-practice-exams/?referralCode=638E4FD4F87C76A4CEE8)
+ 🚩 find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
 
 - 🎖️ Award & Recognitions  [ STAR&R ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/),  [ project ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) ,
-
+  
 - 📄 I have publish my 1st [ whitepaper ](https://www.linkedin.com/feed/update/urn:li:activity:7140943531661078528/)
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
