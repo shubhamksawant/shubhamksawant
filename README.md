@@ -21,6 +21,10 @@
 
 - find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
 
+- 🎖️ Award & Recognitions  [ STAR&R ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/),  [ project ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) ,
+
+- 📄 I have publish my 1st [ whitepaper ](https://www.linkedin.com/feed/update/urn:li:activity:7140943531661078528/)
+
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://twitter.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamksawant" height="30" width="40" /></a>
@@ -55,8 +59,8 @@
 #My Certifications :arrow_down:
 
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/5ed3ca1e-8aae-45dc-ae4a-a869bf5511c2/public_url)
-- [AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-8e788ae9-0840-41d6-a3f1-e5a6aa5002c3/)
-- [Terraform Associate](https://kodekloud.com/certificate-verification/838FE09489-2D0408C91699-8389ADA709/)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/85739477-d954-4085-9c70-108053b26f2a/public_url)
+- [HashiCorp CertifiedTerraform Associate](https://www.credly.com/badges/1abbe542-49e4-4107-97fb-d8d77af216cf/public_url)
 - [Docker](https://kodekloud.com/certificate-verification/838FE09489-8389E9C92D-8389ADA709/)
 - [Jenkins](https://kodekloud.com/certificate-verification/838FE09489-2D0668DFDDC0-8389ADA709/) 
 - [Kubernetes](https://kodekloud.com/certificate-verification/838FE09489-8389E9EF0C-8389ADA709/) 
