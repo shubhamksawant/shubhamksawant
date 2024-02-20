@@ -78,9 +78,33 @@
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2" alt="Recent Article 2"> 
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamksawant&show_icons=true&locale=en&layout=compact" alt="shubhamksawant" /></p>
+---
 
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<h3>GitHub Stats:</h3>
+
+<details>
+<summary><b>📊 GitHub Profile Stats</b></summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamksawant&show_icons=true&locale=en" alt="shubhamksawant" />
+</details>
+<details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamksawant&theme=aura" alt="shubhamksawant" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhamksawant&theme=aura" alt="shubhamksawant" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamksawant&theme=great_gatsby" alt="shubhamksawant" /></p>
+ 
+
+</details>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shubhamksawant&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamksawant" alt="shubhamksawant" /></a> </p>
+
