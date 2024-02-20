@@ -9,9 +9,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsawant](https://www.linkedin.com/in/shubhamsawant)
 
-- 🌱 I’m currently learning DevSecOps & Cloud Devops
+- 🌱 I’m currently learning Python and CKA
 
 - ⚡ Fun fact: I love to run 🏃 [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
+
+- Chekout my Udemy course if your planning for terraform certification  [udemy-terraform-associate-practice-exams](https://www.udemy.com/course/terraform-associate-practice-exams/?referralCode=638E4FD4F87C76A4CEE8)
 
 - I Stay updated & help others by sharing articles and posts in the world of DevOps on LinkedIn group 🤝 [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
 
