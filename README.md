@@ -9,7 +9,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsawant](https://www.linkedin.com/in/shubhamsawant)
 
-- 🌱 I’m currently learning Python and CKA
+- 🌱 I’m currently learning Python and CKA & Hashicorp Vault
+- 🌱 Project I’m working on - 1. Creation of Disaster Recovery for web application on AWS
+                              2. Creation of infrastructure code for GenAI application
+- 🌱 My Personal Project work - [ Here ](https://github.com/shubhamksawant/My_Projects)
 
 - 🎖️ Award & Recognitions  [ STAR&R ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/) 🏆 [ Project Work ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) 
   
@@ -17,9 +20,9 @@
 
 - ⚡ Fun fact: I love to run 🏃 [download My Resume here](https://shubhamksawant.github.io/mywebsite/#)
 
-- 🔭 ALong with my Job I’m currently working on  open source contribution by Creating Devops related tech resources
+- 🔭 ALong with my Job I’m currently working on open source contribution by Creating Devops related tech resources
   
-- 🚩 I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com)
+- 🚩 I regularly write articles on 📝 [https://shubhamksawant.medium.com](https://shubhamksawant.medium.com) 
   
 - 🚩 I Stay updated & help others by sharing articles and posts in the world of DevOps on LinkedIn group 🤝 [DevOps Knowledge Junction](https://www.linkedin.com/groups/9501755)
   
@@ -56,7 +59,8 @@
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/> </a>
 <a href="https://memcached.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHubActions" width="40" height="40"/> </a> </p>
 
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 #My Certifications :arrow_down:
@@ -64,6 +68,7 @@
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/5ed3ca1e-8aae-45dc-ae4a-a869bf5511c2/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/85739477-d954-4085-9c70-108053b26f2a/public_url)
 - [HashiCorp CertifiedTerraform Associate](https://www.credly.com/badges/1abbe542-49e4-4107-97fb-d8d77af216cf/public_url)
+- [GitHub Actions](https://kodekloud.com/certificate-verification/838FE09489-2ED36FF7EB44-8389ADA709/)
 - [Docker](https://kodekloud.com/certificate-verification/838FE09489-8389E9C92D-8389ADA709/)
 - [Jenkins](https://kodekloud.com/certificate-verification/838FE09489-2D0668DFDDC0-8389ADA709/) 
 - [Kubernetes](https://kodekloud.com/certificate-verification/838FE09489-8389E9EF0C-8389ADA709/) 
