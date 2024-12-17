@@ -9,11 +9,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsawant](https://www.linkedin.com/in/shubhamsawant)
 
-- 🌱 I’m currently learning Python and CKA & Hashicorp Vault
-- 🌱 Project I’m working on - 1. Creation of Disaster Recovery for web application on AWS
-                              2. Creation of infrastructure code for GenAI application
+- 🌱 I’m currently learning:- 1.  [HELM](https://github.com/shubhamksawant/helm)
+                              2.  [KodeKloud-Engineer](https://github.com/shubhamksawant/KodeKloud-Engineer)
+                              3.  [SealedSecrets](https://github.com/shubhamksawant/SealedSecrets)
+                              4. [KCNA](https://github.com/shubhamksawant/KCNA)                           
 - 🌱 My Personal Project work - [ Here ](https://github.com/shubhamksawant/My_Projects)
-
+- 🌱 Project I’m working on -   1. Creation of CICD pipeline using Azure pipelines from Scratch to deploy IAC and React code on s3 along creation of IAC for the project 
 - 🎖️ Award & Recognitions  [ STAR&R ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/) 🏆 [ Project Work ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) 
   
 - 📄 I have publish my 1st [ whitepaper ](https://www.linkedin.com/feed/update/urn:li:activity:7140943531661078528/)
