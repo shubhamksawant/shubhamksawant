@@ -44,7 +44,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://shubhamksawant.medium.com"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@shubhamksawant" height="30" width="40"/> </a>
 </p>
 
-<h3 align="left">DevOps Tools:</h3>
+<h3 align="left">💬 Ask me about:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,github,git,jenkins,linux,windows,powershell,py,grafana,prometheus,nginx,npm,react,redis,vscode&theme=light)](https://skillicons.dev)
 
