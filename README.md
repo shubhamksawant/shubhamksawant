@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shubham K Sawant</h1>
 <h3 align="center">Passionate Cloud & DevOps Enginner from India</h3>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhamsawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://dev.to/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamksawant" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16757941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16757941" height="30" width="40" /></a>
+<a href="https://medium.com/@shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shubhamksawant" height="30" width="40" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamksawant&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamksawant" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhamksawant" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamksawant?logo=twitter&style=for-the-badge" alt="shubhamksawant" /></a> </p>
-
 - 📫 How to reach me **shubhamksawant3@gmail.com**
 
 - 📄 Know about my experiences download My Resume from [LinkedIn](https://www.linkedin.com/in/shubhamsawant) Featured sections
@@ -13,7 +20,8 @@
                               1.  [HELM](https://github.com/shubhamksawant/helm)
                               2.  [KodeKloud-Engineer](https://github.com/shubhamksawant/KodeKloud-Engineer)
                               3.  [SealedSecrets](https://github.com/shubhamksawant/SealedSecrets)
-                              4.  [KCNA](https://github.com/shubhamksawant/KCNA)                           
+                              4.  [KCNA](https://github.com/shubhamksawant/KCNA)
+                              5.  [Kubernetes-Network-Policies](https://github.com/shubhamksawant/Kubernetes-Network-Policies)
 - 🌱 Project I’m working on -   1. Creation of CICD pipeline using Azure pipelines from Scratch to deploy IAC and React code on s3 along creation of IAC for the project
 - 🌱 Some of my Personal [Project work](https://github.com/shubhamksawant/My_Projects)
 - 🎖️ Award & Recognitions 🏆 [ Top ranked DevOps Architect in KodeKloud Engineer ](https://www.linkedin.com/feed/update/urn:li:activity:7259427837714055170/) 🏆 [ STAR&R 2024 ](https://www.linkedin.com/feed/update/urn:li:activity:7215957784813522944/) 🏆 [ STAR&R 2023 ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/) 🏆 [ Project Work ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) 🏆 [ Google Cloud Arcade ](https://www.linkedin.com/feed/update/urn:li:activity:7176480910949715968/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176480910949715968%29) 
@@ -33,34 +41,13 @@
   
 - 🚩 find a collection of scripts and tools that I use in my daily work. Feel free to explore, use, and contribute to these resources. Whether you're a developer, sysadmin, or anyone interested in DevOps and automation, you'll find something valuable [here](https://github.com/shubhamksawant/DevOps-Knowledge-Junction)
 
-
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="left">
-<a href="https://twitter.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamksawant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamksawant" height="30" width="40" /></a>
-<a href="https://fb.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhamksawant" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamksawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamksawant" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhamksawant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamksawant3" height="30" width="40" /></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://shubhamksawant.medium.com"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@shubhamksawant" height="30" width="40"/> </a>
-</p>
-
 <h3 align="left">💬 Ask me about:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,github,git,jenkins,linux,windows,powershell,py,grafana,prometheus,nginx,npm,react,redis,vscode&theme=light)](https://skillicons.dev)
-
-<p align="left"> 
- <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
- <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/> </a>
-<a href="https://memcached.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHubActions" width="40" height="40"/> </a> </p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,github,git,githubactions,jenkins,linux,windows,powershell,py,mysql,postgres,redis,grafana,prometheus,nginx,npm,react,vscode&theme=light)](https://skillicons.dev)
 
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 #Certifications :arrow_down:
 
 - [GitOps Fundamentals by Codefresh ](https://www.credly.com/badges/5a5cc1f6-242c-4de4-bf38-1629644a337f/public_url)
@@ -82,15 +69,6 @@
 - [GIT](https://kodekloud.com/certificate-verification/838FE09489-8389DAADF9-8389ADA709/)
 - [Jira Fundamentals](https://university.atlassian.com/student/award/mpybNu8m1H9pVa65mMKBWP3k)
 
-
-
-## My latest Medium Blog's
-  
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/1" alt="Recent Article 1"> 
-  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamksawant/2" alt="Recent Article 2"> 
 
 ---
 
