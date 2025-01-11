@@ -50,7 +50,7 @@
 
 
 #Certifications :arrow_down:
-
+- [AWS Certified DevOps Engineer - Professional ](https://www.credly.com/badges/3359dc2b-b8a6-439f-8d93-f60ea6e0117e/public_url)
 - [GitOps Fundamentals by Codefresh ](https://www.credly.com/badges/5a5cc1f6-242c-4de4-bf38-1629644a337f/public_url)
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/5ed3ca1e-8aae-45dc-ae4a-a869bf5511c2/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/85739477-d954-4085-9c70-108053b26f2a/public_url)
