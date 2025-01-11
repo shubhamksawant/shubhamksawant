@@ -22,7 +22,8 @@
                               2.  [KodeKloud-Engineer](https://github.com/shubhamksawant/KodeKloud-Engineer)
                               3.  [SealedSecrets](https://github.com/shubhamksawant/SealedSecrets)
                               4.  [KCNA](https://github.com/shubhamksawant/KCNA)
-                              5.  [Kubernetes-Network-Policies](https://github.com/shubhamksawant/Kubernetes-Network-Policies)
+                              5.  [Certified Kubernetes Administrator (CKA)](https://github.com/shubhamksawant/CKA)
+                              5. [Kubernetes-Network-Policies](https://github.com/shubhamksawant/CKA)
 - 🌱 Project I’m working on -   1. Creation of CICD pipeline using Azure pipelines from Scratch to deploy IAC and React code on s3 along creation of IAC for the project
 - 🌱 Some of my Personal [Project work](https://github.com/shubhamksawant/My_Projects)
 - 🎖️ Award & Recognitions 🏆 [ Top ranked DevOps Architect in KodeKloud Engineer ](https://www.linkedin.com/feed/update/urn:li:activity:7259427837714055170/) 🏆 [ STAR&R 2024 ](https://www.linkedin.com/feed/update/urn:li:activity:7215957784813522944/) 🏆 [ STAR&R 2023 ](https://www.linkedin.com/feed/update/urn:li:activity:7071372491671183360/) 🏆 [ Project Work ](https://www.linkedin.com/feed/update/urn:li:activity:7128275056299753472/) 🏆 [ Google Cloud Arcade ](https://www.linkedin.com/feed/update/urn:li:activity:7176480910949715968/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176480910949715968%29) 
